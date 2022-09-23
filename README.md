@@ -1,3 +1,4 @@
 ai_test
 
-python_version : Python 3.7.6
+python_version : 3.7.7
+opencv : 3.4.2
