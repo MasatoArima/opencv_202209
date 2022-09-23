@@ -1,4 +1,4 @@
-ai_test
+# Stest
 
-python_version : 3.7.7
-opencv : 3.4.2
+## python_version : 3.7.7
+## opencv         : 3.4.2
